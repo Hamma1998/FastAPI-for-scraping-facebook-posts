@@ -1,7 +1,7 @@
 # FastAPI-for-scraping-facebook-posts
 This is a Facebook scraping service that extracts and stores data in a NoSql database.
 
-FastAPI instructions are used to create this service. It contains two functions that are accessible via get requests.  The second is for collecting and storing information from Facebook posts.
+FastAPI instructions are used to create this service. It contains two functions that are accessible via get requests. The second is for collecting and storing information from Facebook posts.
 
 Please keep in mind that this service is dockerized. You must first execute this command before you can run it. in your CLI:
 ```
